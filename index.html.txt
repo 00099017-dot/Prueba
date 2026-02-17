@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mis Dashboards</title>
+</head>
+<body style="font-family: Arial; text-align:center;">
+
+    <h1>Portafolio de Dashboards</h1>
+
+    <h2>Dashboard 1</h2>
+    <iframe width="100%" height="600"
+        src="PEGA_AQUI_TU_LINK"
+        frameborder="0" allowFullScreen="true">
+    </iframe>
+
+</body>
+</html>
